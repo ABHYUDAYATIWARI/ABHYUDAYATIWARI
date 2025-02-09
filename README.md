@@ -9,6 +9,23 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ABHYUDAYATIWARI&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHYUDAYATIWARI&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+##  Contributions & Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHYUDAYATIWARI&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+##  Profile Views
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ABHYUDAYATIWARI/count.svg" alt="Visitor's Count" />
+</p>
+
+---
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ABHYUDAYATIWARI&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
