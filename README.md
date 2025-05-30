@@ -51,36 +51,12 @@ I am a **B.Tech student in Computer Science Engineering** passionate about **Bac
 
 ---
 
-## **📊 GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHYUDAYATIWARI&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHYUDAYATIWARI&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHYUDAYATIWARI&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
-</div>
-
----
-
 ## **📈 Contributions & Activity**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHYUDAYATIWARI&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
----
-
-## **👀 Profile Views**
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ABHYUDAYATIWARI/count.svg" alt="Visitor's Count" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ABHYUDAYATIWARI&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
